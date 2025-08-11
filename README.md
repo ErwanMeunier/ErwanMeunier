@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @ErwanMeunier
-- 👀 I’m interested in computer science, mathematics and their interactions with other fields
-- 🌱 I’m currently learning computer science, operations research more precisely.
-- 💞️ I’m looking to collaborate on cool projects (don't have any idea)
-- 📫 How to reach me : through github 
+I am Erwan Meunier, a PhD student at UCLouvain in the ICTEAM institute. My research focuses on online optimization and performance estimation problems, aiming to assess the performance of cutting-edge optimization algorithms. I also have a strong background and keen interest in combinatorial optimization and operations research in general. In addition, I am actively involved in and supportive of the open-source community.
 
-<!---
-ErwanMeunier/ErwanMeunier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach me via GitHub or by email at erwan.meunier@uclouvain.be.
